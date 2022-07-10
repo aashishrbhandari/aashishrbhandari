@@ -10,7 +10,7 @@ I invest my time to understand solutions and have a deep love for Security Solut
 - Networking & Security Solutions Explorer
 - CLI Lover (therefore indirectly Linux Lover)
 - A ok-ok developer. meaning i can understand and sometimes also develop
-- Helper by Nature (I try to always put my frontfoot ahead whenever i am aware & can solve someone's problem.)
+- Helper by Nature (I try to always put my frontfoot ahead whenever i feel i can solve someone's problem.)
 
 
 ## ➼ Read more about me:
