@@ -14,14 +14,14 @@ I love solutions that have core tech: like proxy, firewall, waf (which involves 
 - A ok-ok developer. meaning i can understand and sometimes also develop
 - Helper by Nature (I try to always put my frontfoot ahead whenever i feel i can solve someone's problem.)
 
-
+<!--
 ## ➼ Read more about me:
 <img src="https://aashishrbhandari.github.io/images/svg/logo1.svg" width=16> [Web Profile](https://aashishrbhandari.github.io/)
 
 <img src="https://static-exp2.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width=16> [LinkedIn](https://linkedin.com/in/aashishrbhandari)
+-->
 
-
-#### ⤖ What i am Good At...
+## ➼ What i am Good At...
 
 - Structuring Problem
 - Firewall Core Security Review & Recommendation
@@ -31,7 +31,7 @@ I love solutions that have core tech: like proxy, firewall, waf (which involves 
 
 
 
-#### ⤖ Exploring, Learning & Loving :
+## ➼ Exploring, Learning & Loving :
 
 - AWS
 - Terraform
