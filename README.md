@@ -1,6 +1,8 @@
-hi, i'm [Ashish R Bhandari](https://aashishrbhandari.github.io/) this side, I am a Security Engineer... and before being a Security Engineer, i am an Engineer (but not by degree), but by the way i want to understand problems, learn about softwares, solutions and explore how they work. i always want to deep dive and understand about the software that i am using as to how it was created, what it could do and what was used to built it and then try to figure out the area as to where it might not work.
+hi, i'm [Ashish R Bhandari](https://aashishrbhandari.github.io/) this side, I am a Security Engineer... and before being a Security Engineer, i am an Engineer (but not by degree), but by the way i want to understand problems, learn about softwares, solutions and explore how they work. i always want to deep dive and understand about the software that i am using as, to how it was created, how it works, what it could do and what was used to built it and then try to figure out the area, as to where it might not work (example: a firewall without DPI cannot block https url strings).
 
-I invest my time to understand solutions and have a deep love for Security Solutions. I am core tech guy who has explored and is exploring all IT Spaces: Development, Testing, IT Operations, Cloud, Security, System Engineering, Pentesting, SOC etc and still alot to learn and explore.
+I invest my time to understand solutions and have a deep love for Security Solutions. I am a core tech guy who has explored and is exploring all IT Spaces: Development, Testing(software testing & security), IT Operations, Cloud, Security, System Engineering, Pentesting, SOC etc and still alot to learn and explore.
+
+I love solutions that have core tech: like proxy, firewall, waf (which involves networking, filtering & control, debugging & troubleshooting); python, bash (write code to solve or debug a problem); sase/sse tester (understand what a solution provides and validate it, check what all features a solution provide and what it does not and recommend.)
 
 
 ## ➼ Who I am....
