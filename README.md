@@ -1,4 +1,6 @@
-hi, i'm [Ashish R Bhandari](https://aashishrbhandari.github.io/) this side, I am a Security Engineer... and before being a Security Engineer, i am an Engineer (but not by degree), but by the way i want to understand problems, learn about softwares, solutions and explore how they work. i always want to deep dive and understand about the software that i am using as, to how it was created, how it works, what it could do and what was used to built it and then try to figure out the area, as to where it might not work (example: a firewall without DPI cannot block https url strings).
+hi, i'm [Ashish R Bhandari](https://aashishrbhandari.github.io/) this side, I am a Security Engineer... and before being a Security Engineer, i am an Engineer (but not by degree), but by the way i want to understand problems, learn about softwares, solutions and explore how they work. i always want to deep dive and understand about the software that i am using as, to how it was created, how it works, what it could do and what was used to built it and then try to figure out the area, as to where it might not work (simple example: a firewall without DPI cannot block https url strings).
+
+I love to debug, test, develop, deploy & hunt for software, network & security solutions. my journey comprises doing dev, system engineering, security solution sme, security solution tester, offensive testing, firewall implementation, network security, and threat hunting and i loved them all.
 
 I invest my time to understand solutions and have a deep love for Security Solutions. I am a core tech guy who has explored and is exploring all IT Spaces: Development, Testing(software testing & security), IT Operations, Cloud, Security, System Engineering, Pentesting, SOC etc and still alot to learn and explore.
 
@@ -17,7 +19,6 @@ I love solutions that have core tech: like proxy, firewall, waf (which involves 
 <!--
 ## ➼ Read more about me:
 <img src="https://aashishrbhandari.github.io/images/svg/logo1.svg" width=16> [Web Profile](https://aashishrbhandari.github.io/)
-
 <img src="https://static-exp2.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width=16> [LinkedIn](https://linkedin.com/in/aashishrbhandari)
 -->
 
@@ -33,17 +34,11 @@ I love solutions that have core tech: like proxy, firewall, waf (which involves 
 
 ## ➼ Exploring, Learning & Loving :
 
-- AWS
+- Cloud (AWS)
 - Terraform
 - Cloud Security
 - Cloud Networking
+- Elastic Stack (Journey from Log Collector to SIEM)
+- WaZuh (Intelligence Built over Elastic Stack)
+- Threat Hunting
 
-
-<!--
-#### To Do / Bucket List:
-
-- SIEM
-- SOAR
-- 
-
--->
