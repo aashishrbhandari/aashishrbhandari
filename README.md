@@ -9,8 +9,8 @@ I love solutions that have core tech: like proxy, firewall, waf (which involves 
 
 ## ➼ Who I am....
 - A Security Engineer with Knowledge of Offensive as well as Defensive Side
-- A SASE/SSE Lover & Tester
-- A Debugger & Troubleshooter of Software, Solution, Network & Infrastructure
+- A SASE/SSE Solution Lover & Tester
+- A Debugger & Troubleshooter of Software, Solution, Cloud, Network & Infrastructure
 - Networking & Security Solutions Explorer
 - CLI Lover (therefore indirectly Linux Lover)
 - A ok-ok developer. meaning i can understand and sometimes also develop
@@ -24,21 +24,21 @@ I love solutions that have core tech: like proxy, firewall, waf (which involves 
 
 ## ➼ What i am Good At...
 
-- Structuring Problem
+- Understanding, Structuring & Analyzing Problems
+- Problem Solving & Observational Skills
 - Firewall Core Security Review & Recommendation
-- SASE/SSE Testing
+- SASE/SSE Solution Testing
 - SWG, CASB, DLP (Gateway Solution) Testing
 - Network Related Problem Solving (still learning)
+- Help people automate things using my skills
 
 
 
 ## ➼ Exploring, Learning & Loving :
 
-- Cloud (AWS)
+- AWS Networking
 - Terraform
-- Cloud Security
-- Cloud Networking
+- AWS Security
 - Elastic Stack (Journey from Log Collector to SIEM)
-- WaZuh (Intelligence Built over Elastic Stack)
 - Threat Hunting
-
+- Helping my colleagues by Automating things
