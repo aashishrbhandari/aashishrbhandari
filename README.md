@@ -1,3 +1,6 @@
+
+<img src="./images/Cloud Networking Security v3.png"/>
+
 hi, i'm [Ashish R Bhandari](https://aashishrbhandari.github.io/) this side, I am a Security Engineer... and before being a Security Engineer, i am an Engineer (but not by degree), but by the way i want to understand problems, learn about softwares, solutions and explore how they work. i always want to deep dive and understand about the software that i am using as, to how it was created, how it works, what it could do and what was used to built it and then try to figure out the area, as to where it might not work (simple example: a firewall without DPI cannot block https url strings).
 
 I love to debug, test, develop, deploy & hunt for software, network & security solutions. my journey comprises doing dev, system engineering, security solution sme, security solution tester, offensive testing, firewall implementation, network security, and threat hunting and i loved them all.
