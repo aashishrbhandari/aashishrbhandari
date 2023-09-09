@@ -39,9 +39,16 @@ I love solutions that have core tech: like proxy, firewall, waf (which involves 
 
 ## ➼ Exploring, Learning & Loving :
 
-- AWS Networking
-- Terraform
-- AWS Security
-- Elastic Stack (Journey from Log Collector to SIEM)
-- Threat Hunting
+- Automating AWS Operations and Security
+  - AWS Boto3
+  - AWS CLI
+- AWS IAM
+  - IAM and IAM IC (Identity Center / AWS SSO)
+- AWS Operations
+  - AWS Networking
+- Security Solutions
+  - AWS Config, VPC Flow Logs, Network Firewall Logs
+  - Elastic Stack
+  - WaZuh (EDR & SIEM)
 - Helping my colleagues by Automating things
+- Terraform
