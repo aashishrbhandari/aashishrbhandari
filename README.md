@@ -41,13 +41,13 @@ A Security Engineer and lifelong learner with a passion for understanding and de
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashishrbhandari&rank_icon=github&show_icons=true&include_all_commits=true&border_color=2e4058)
 
-
+<!--
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aashishrbhandari&repo=Python-Learning&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aashishrbhandari&repo=DNS-Filtering-Solution&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aashishrbhandari&repo=phishing-detector-extension&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aashishrbhandari&repo=MJ_ASSOCIATE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishrbhandari&layout=compact&theme=dracula) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishrbhandari&layout=compact&theme=dracula) -->
 
 ---
