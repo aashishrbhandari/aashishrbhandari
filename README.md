@@ -2,7 +2,9 @@
 
 A Security Engineer and lifelong learner with a passion for understanding and deconstructing complex systems. My engineering mindset is fueled not by a degree, but by an insatiable curiosity about software, solutions, and their core functionalities.I always question myself, "How was it built? What does it do? Where might it break down?" as I examine the inner workings of every tool I use, from its conception to its limitations
 
----
+
+<br/>
+
 
 ## 🛠️ Technical Skills
 
@@ -11,14 +13,14 @@ A Security Engineer and lifelong learner with a passion for understanding and de
 - **Security Solutions**: WaZuh, Elastic Stack, CrowdStrike Falcon, SASE Solutions
 - **DevOps & Automation**: Docker, Kubernetes, Terraform
 
----
+<br/>
 
 ## 🎯 Goals
 
 - Goal 1: Complete [AWS Certified AI Practitioner Certification](https://aws.amazon.com/certification/certified-ai-practitioner/)
 - Goal 2: Explore [CrowdStrike Falcon](https://www.crowdstrike.com/platform/?srsltid=AfmBOorGjFZpyCJIuGTvRDtK5a6dpYE7w2nV0O9Hz9y7VLyf05iJ23rk)
 
----
+<br/>
 
 ## ⚙️ What I Love Doing
 
@@ -27,7 +29,7 @@ A Security Engineer and lifelong learner with a passion for understanding and de
 - **Application & Network Troubleshooting**: Always exploring new methods to sharpen troubleshooting skills.
 - **Automation & Scripting**: Leveraging Python, Bash, and CLI tools to automate solutions and streamline operations.
 
----
+<br/>
 
 ## 📫 Let’s Connect
 
@@ -35,7 +37,7 @@ A Security Engineer and lifelong learner with a passion for understanding and de
 - **[LinkedIn](https://www.linkedin.com/in/aashishrbhandari/)**
 - **[TryHackMe](https://tryhackme.com/r/p/aashish97)**
 
----
+<br/>
 
 ## :octocat: Stats
 
@@ -50,4 +52,4 @@ A Security Engineer and lifelong learner with a passion for understanding and de
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishrbhandari&layout=compact&theme=dracula) -->
 
----
+<br/>
