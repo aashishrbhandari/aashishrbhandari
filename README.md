@@ -1,54 +1,53 @@
+# 👋 Hi, I’m Ashish R Bhandari
 
-<img src="./images/DevSecOps-V2.png"/>
+A Security Engineer and lifelong learner with a passion for understanding and deconstructing complex systems. My engineering mindset is fueled not by a degree, but by an insatiable curiosity about software, solutions, and their core functionalities.I always question myself, "How was it built? What does it do? Where might it break down?" as I examine the inner workings of every tool I use, from its conception to its limitations
 
-hi, i'm [Ashish R Bhandari](https://aashishrbhandari.github.io/) this side, I am a Security Engineer... and before being a Security Engineer, i am an Engineer (but not by degree), but by the way i want to understand problems, learn about softwares, solutions and explore how they work. i always want to deep dive and understand about the software that i am using as, to how it was created, how it works, what it could do and what was used to built it and then try to figure out the area, as to where it might not work (simple example: a firewall without DPI cannot block https url strings).
+---
 
-I love to debug, test, develop, deploy & hunt for software, network & security solutions. my journey comprises doing dev, system engineering, security solution sme, security solution tester, offensive testing, firewall implementation, network security, and threat hunting and i loved them all.
+## 🛠️ Technical Skills
 
-I invest my time to understand solutions and have a deep love for Security Solutions. I am a core tech guy who has explored and is exploring all IT Spaces: Development, Testing(software testing & security), IT Operations, Cloud, Security, System Engineering, Pentesting, SOC etc and still alot to learn and explore.
+- **Languages**: Python, Bash
+- **Cloud & Infrastructure**: AWS, Azure
+- **Security Solutions**: WaZuh, Elastic Stack, CrowdStrike Falcon, SASE Solutions
+- **DevOps & Automation**: Docker, Kubernetes, Terraform
 
-I love solutions that have core tech: like proxy, firewall, waf (which involves networking, filtering & control, debugging & troubleshooting); python, bash (write code to solve or debug a problem); sase/sse tester (understand what a solution provides and validate it, check what all features a solution provide and what it does not and recommend.)
+---
+
+## 🎯 Goals
+
+- Goal 1: Complete [AWS Certified AI Practitioner Certification](https://aws.amazon.com/certification/certified-ai-practitioner/)
+- Goal 2: Explore [CrowdStrike Falcon](https://www.crowdstrike.com/platform/?srsltid=AfmBOorGjFZpyCJIuGTvRDtK5a6dpYE7w2nV0O9Hz9y7VLyf05iJ23rk)
+
+---
+
+## ⚙️ What I Love Doing
+
+- **Problem Structuring & Solution Development**: Turning complex challenges into clear, actionable paths.
+- **Security & Firewall Reviews**: Conducting rigorous reviews and crafting security-focused recommendations.
+- **Application & Network Troubleshooting**: Always exploring new methods to sharpen troubleshooting skills.
+- **Automation & Scripting**: Leveraging Python, Bash, and CLI tools to automate solutions and streamline operations.
+
+---
+
+## 📫 Let’s Connect
+
+- **[Website](https://aashishrbhandari.github.io/)**
+- **[LinkedIn](https://www.linkedin.com/in/aashishrbhandari/)**
+- **[TryHackMe](https://tryhackme.com/r/p/aashish97)**
+
+---
+
+## :octocat: Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashishrbhandari&rank_icon=github&show_icons=true&include_all_commits=true&border_color=2e4058)
 
 
-## ➼ Who I am....
-- A Security Engineer with Knowledge of Offensive as well as Defensive Side
-- A SASE/SSE Solution Lover & Tester
-- A Debugger & Troubleshooter of Software, Solution, Cloud, Network & Infrastructure
-- Networking & Security Solutions Explorer
-- CLI Lover (therefore indirectly Linux Lover)
-- A ok-ok developer. meaning i can understand and sometimes also develop
-- Helper by Nature (I try to always put my frontfoot ahead whenever i feel i can solve someone's problem.)
-
-<!--
-## ➼ Read more about me:
-<img src="https://aashishrbhandari.github.io/images/svg/logo1.svg" width=16> [Web Profile](https://aashishrbhandari.github.io/)
-<img src="https://static-exp2.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width=16> [LinkedIn](https://linkedin.com/in/aashishrbhandari)
--->
-
-## ➼ What i am Good At...
-
-- Understanding, Structuring & Analyzing Problems
-- Problem Solving & Observational Skills
-- Firewall Core Security Review & Recommendation
-- SASE/SSE Solution Testing
-- SWG, CASB, DLP (Gateway Solution) Testing
-- Network Related Problem Solving (still learning)
-- Help people automate things using my skills
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aashishrbhandari&repo=Python-Learning&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aashishrbhandari&repo=DNS-Filtering-Solution&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aashishrbhandari&repo=phishing-detector-extension&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aashishrbhandari&repo=MJ_ASSOCIATE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishrbhandari&layout=compact&theme=dracula) -->
 
-## ➼ Exploring, Learning & Loving :
-
-- Automating AWS Operations and Security
-  - AWS Boto3
-  - AWS CLI
-- AWS IAM
-  - IAM and IAM IC (Identity Center / AWS SSO)
-- AWS Operations
-  - AWS Networking
-- Security Solutions
-  - AWS Config, VPC Flow Logs, Network Firewall Logs
-  - Elastic Stack
-  - WaZuh (EDR & SIEM)
-- Helping my colleagues by Automating things
-- Terraform
+---
